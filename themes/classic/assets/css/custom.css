@@ -1,0 +1,258 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+ *{
+  font-family: Arial;
+}
+
+.header-nav{
+  background-color: #063E8F !important;
+  border: none !important;
+}
+
+.btn-primary{
+  border-radius: 20px !important;
+  background-color: green !important;
+}
+
+.btn-primary:hover{
+  background-color: red !important;
+}
+
+
+.btn-secondary{
+  border-radius: 20px !important;
+  background-color: green !important;
+}
+
+.btn-secondary:hover{
+  background-color: red !important;
+}
+.js-qv-product-cover{
+  border-radius: 25px !important;
+}
+
+.product-cover .layer{
+  border-radius: 25px !important;
+}
+
+.input-color{
+  border-color: red !important;
+}
+
+.discount{
+  border-radius: 25px;
+}
+
+.block-categories{
+  border-radius: 15px 15px 0px 0px;
+
+}
+
+#search_filters{
+  border-radius: 0px 0px 15px 15px;
+}
+
+.block-category{
+	border-radius: 30px;
+  min-height: 1px;
+  border: none;
+}
+
+.category-cover{
+  width: 10%;
+}
+
+.card{
+	border-radius: 25px;
+}
+
+.btn-unstyle{
+	border-radius: 25px !important;
+}
+
+
+
+#header a:hover{
+	color: rgb(128, 174, 196) !important;
+}
+
+.dropdown-menu{
+	border-radius: 3px;
+	border-color: white;
+}
+
+#header{
+	border: none;
+}
+
+
+
+.blockcart{
+	background-color: rgb(0,19,109) !important;
+}
+
+.btn-unstyle{
+	color: white !important;
+}
+
+.btn-unstyle{
+	color: rgb(128, 174, 196) !important;
+}
+
+.logout-text{
+  margin-left: 10px;
+}
+
+.logout-text:hover{
+	color: #e57373 !important;
+}
+
+.carousel-item img{
+  border-radius: 25px;
+}
+
+.carousel{
+  border-radius: 25px;
+}
+
+.login-text:hover{
+  color:#a5d6a7 !important;
+}
+
+.category a:hover{
+  color: red;
+}
+
+.sub-menu{
+  background-color: #5f8ca1 !important;
+  color: red !important;
+}
+
+
+.products-section-title{
+  color: rgb(0,19,109) !important;
+  font-size: 30px;
+  font-family: Arial;
+}
+
+.expand-more{
+  color: white !important;
+}
+
+.expand-more:hover{
+  color: rgb(128, 174, 196) !important;
+}
+
+.current{
+  background-color: #eceff1;
+  border-radius: 25px;
+  padding-right: 0px !important;
+}
+
+.current a:hover{
+  color: rgb(0,19,109) !important;
+}
+
+
+
+#header .header-top a{
+  color: rgb(0,19,109) !important;
+}
+
+.dropdown-item{
+  color: black !important;
+  padding-left: 10px !important;
+  padding-top: 8px !important;
+}
+
+.popover{
+  margin-left: 0 !important;
+  padding-bottom: 10px !important;
+  text-align: center !important;
+  top: 50%;
+}
+
+.search-widget form input[type=text]{
+	border-radius: 30px !important;
+	-webkit-appearance: none;
+}
+
+.search-widget form input[type=text]:focus{
+	outline: none !important;
+}
+
+.search-widget form button[type=submit]:hover{
+	color: red !important;
+}
+
+.search-widget form button[type=submit]:focus{
+	color: red !important;
+}
+
+.header-nav{
+	background-color: rgb(0,19,109) !important;
+}
+
+#header a{
+	color: white !important;
+}
+
+.featured-products .product-miniature .discount-percentage.discount-percentage{
+	background-color: rgb(128, 174, 196) !important;
+	border-radius: 30px;
+}
+
+.card{
+	border-radius: 5px !important;
+}
+
+.block-categories{
+	border-radius: 5px 5px 0px 0px;
+}
+
+#search_filters{
+	border-radius: 0px 0px 5px 5px;
+}
+
+.pagination .current a{
+	background-color: white !important;
+	color: rgb(128, 174, 196) !important;
+}
+
+.product-description{
+	border-radius: 0px 0px 10px 10px !important;
+}
+
+
+.thumbnail-container{
+	border-radius: 10px !important;
+	padding-top: 5px !important;
+}
+
+.variant-links{
+	border-radius: 10px !important;
+}
+
+.product-thumbnail{
+	border-radius: 100px !important;
+}
+
+.helloworld_hello{
+    color: black;
+    line-height: 100%;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.helloworld_content{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.helloworld_descripcion{
+    padding-top: 11px;
+}
+

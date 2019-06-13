@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Agenda del &amp;quot;PrestaShop Day 2019 Madrid&amp;quot;, el evento eCommerce del año</title>
+    <link>https://www.prestashop.com/es/blog/agenda-prestashop-day-madrid</link>
+    <description>¿Has asistido ya a alguna de las anteriores ediciones del &quot;PrestaShop Day&quot; de Madrid?</description>
+     <pubDate>Mon, 10 Jun 2019 10:38:18 +0200</pubDate>
+ <dc:creator>Bertrand Amaraggi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/agenda-prestashop-day-madrid</guid>
+  </item>
+  <item>
+    <title>Programa del PSD Madrid 2019: 18 Junio en la Nave ¡Apunta esta fecha!</title>
+    <link>https://www.prestashop.com/es/blog/programa-psd-madrid</link>
+    <description>¡Ya está aquí la 4ª edición de uno de los acontecimientos más importantes del año para la comunidad eCommerce! Se trata del “PrestaShop Day Madrid”.</description>
+     <pubDate>Fri, 07 Jun 2019 13:38:33 +0200</pubDate>
+ <dc:creator>Bertrand Amaraggi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/programa-psd-madrid</guid>
+  </item>
+  <item>
+    <title>¿Qué es el ciclo de vida de un producto y cuáles son sus fases?</title>
+    <link>https://www.prestashop.com/es/blog/ciclo-de-vida-producto</link>
+    <description>¿Conoces todo lo relativo al ciclo de vida de los productos de tu eCommerce?</description>
+     <pubDate>Tue, 04 Jun 2019 11:44:09 +0200</pubDate>
+ <dc:creator>Daniel Díaz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ciclo-de-vida-producto</guid>
+  </item>
+  <item>
+    <title>¡Novedad! Con PrestaShop Checkout, gestionarás todos los tipos de pago desde una misma interfaz con total seguridad</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-checkout</link>
+    <description>¡No esperes más! Descubre PrestaShop Checkout Built with PayPal, la innovadora solución de pago lanzada por PrestaShop, que potenciará tu actividad de e-commerce.</description>
+     <pubDate>Mon, 03 Jun 2019 18:29:20 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-checkout</guid>
+  </item>
+  <item>
+    <title>¿Qué es un catálogo de productos y cómo elaborarlo paso a paso?</title>
+    <link>https://www.prestashop.com/es/blog/catalogo-de-productos</link>
+    <description>¿Tienes claro qué es un catálogo de productos y cómo elaborar el tuyo propio?</description>
+     <pubDate>Thu, 30 May 2019 10:36:51 +0200</pubDate>
+ <dc:creator>Jorge Domingo Aguilar</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/catalogo-de-productos</guid>
+  </item>
+  <item>
+    <title>Los 7 Mejores módulos para hacer seguimiento de pedidos en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-seguimiento-de-pedidos</link>
+    <description>¿Eres de los que facilita un seguimiento de pedidos a sus clientes dentro de tu negocio online?</description>
+     <pubDate>Mon, 27 May 2019 09:39:56 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-seguimiento-de-pedidos</guid>
+  </item>
+  <item>
+    <title>¿Qué es una caja de suscripción y cómo crear una para tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/lanza-una-caja-por-suscripcion-en-tan-solo-5-sencillos-pasos</link>
+    <description>¿Has probado a incluir una caja de suscripción dentro de la estrategia comercial de tu tienda online?</description>
+     <pubDate>Mon, 27 May 2019 09:30:46 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/lanza-una-caja-por-suscripcion-en-tan-solo-5-sencillos-pasos</guid>
+  </item>
+  <item>
+    <title>PSConnect Bogotá 2019, el gran evento sobre eCommerce en Colombia</title>
+    <link>https://www.prestashop.com/es/blog/psconnect-bogota</link>
+    <description>¿Aún no conoces todo lo que tiene preparado &quot;PSConnect Bogotá&quot; a los que decidan asistir a su evento de eCommerce?</description>
+     <pubDate>Sun, 26 May 2019 20:03:22 +0200</pubDate>
+ <dc:creator>Andrey López</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/psconnect-bogota</guid>
+  </item>
+  <item>
+    <title>¿Qué es un reCaptcha? 5 Mejores módulos para integrarlos en tu PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-recaptcha</link>
+    <description>¿Aún no usas sistemas de Captcha o reCaptcha dentro de tu negocio online?</description>
+     <pubDate>Wed, 22 May 2019 18:19:45 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-recaptcha</guid>
+  </item>
+  <item>
+    <title>¿Qué es la venta multicanal y cómo puede ayudarme la multicanalidad en mi eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/multicanalidad</link>
+    <description>¿Conoces todas las ventajas de la venta multitcanal? Quédate hasta el final y conocerás todo lo que esta estrategia puede hacer por tu tienda.</description>
+     <pubDate>Wed, 22 May 2019 10:48:29 +0200</pubDate>
+ <dc:creator>Alejandro Montero</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/multicanalidad</guid>
+  </item>
+  </channel>
+</rss>
