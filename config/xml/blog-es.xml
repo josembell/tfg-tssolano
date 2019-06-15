@@ -6,6 +6,14 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>¿Cómo instalar el Módulo de eBay para destacar tu tienda en este marketplace?</title>
+    <link>https://www.prestashop.com/es/blog/destaca-tu-prestashop-en-marketplaces</link>
+    <description>¿Aún no has probado el módulo eBay para tu tienda PrestaShop?</description>
+     <pubDate>Fri, 14 Jun 2019 15:50:26 +0200</pubDate>
+ <dc:creator>Juan Luis Mora</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/destaca-tu-prestashop-en-marketplaces</guid>
+  </item>
+  <item>
     <title>Agenda del &amp;quot;PrestaShop Day 2019 Madrid&amp;quot;, el evento eCommerce del año</title>
     <link>https://www.prestashop.com/es/blog/agenda-prestashop-day-madrid</link>
     <description>¿Has asistido ya a alguna de las anteriores ediciones del &quot;PrestaShop Day&quot; de Madrid?</description>
@@ -76,14 +84,6 @@
      <pubDate>Wed, 22 May 2019 18:19:45 +0200</pubDate>
  <dc:creator>Mariela Quiroga</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-recaptcha</guid>
-  </item>
-  <item>
-    <title>¿Qué es la venta multicanal y cómo puede ayudarme la multicanalidad en mi eCommerce?</title>
-    <link>https://www.prestashop.com/es/blog/multicanalidad</link>
-    <description>¿Conoces todas las ventajas de la venta multitcanal? Quédate hasta el final y conocerás todo lo que esta estrategia puede hacer por tu tienda.</description>
-     <pubDate>Wed, 22 May 2019 10:48:29 +0200</pubDate>
- <dc:creator>Alejandro Montero</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/multicanalidad</guid>
   </item>
   </channel>
 </rss>
